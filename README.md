@@ -1,0 +1,2 @@
+# global
+GitHub Pages
